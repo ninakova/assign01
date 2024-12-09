@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/ninakova/assign01.git
 git pu
 sh -uorigin main
+
